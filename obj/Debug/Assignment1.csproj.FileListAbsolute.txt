@@ -1,0 +1,11 @@
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+O:\School\Y1S2\PROG1815 - Programming Concepts 2\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
